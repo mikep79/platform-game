@@ -3,9 +3,9 @@ Python code platform jumping game. Use ```left``` and ```right``` to move, and `
 
 <br>
 <p>
-<img src="screenshots/1.png" width="230px" />
-<img src="screenshots/2.png" width="230px" />
-<img src="screenshots/3.png" width="230px" />
+<img src="screenshots/pic1.png" width="230px" />
+<img src="screenshots/pic2.png" width="230px" />
+<img src="screenshots/pic3.png" width="230px" />
 </p>
 <br>
 
